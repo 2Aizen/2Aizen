@@ -1,4 +1,2 @@
-<img width="300" alt="tumblr_798896adf7dbd973f1fe7c08542304be_62994592_6" src="https://github.com/user-attachments/assets/54977ef1-f4dc-4fdc-a78a-4f1722b3a296" />
-<img width="700" align="center" alt="Background copy" src="https://github.com/user-attachments/assets/fd715bde-17fd-47cc-806e-7c91cafb1444" />
-<img width="300" align="right" alt="tumblr_b5fc0dd56aba6caa066633852747ad7c_9dae7b03_6" src="https://github.com/user-attachments/assets/2c7173d5-711d-438f-b48c-c1615e38c776" />
-
+<img width="1650" align="center" alt="Pi7_GIF_CMP" src="https://github.com/user-attachments/assets/31f5c422-b17b-4398-9211-6c035c8a0b99" />
+<p align="center">Is my gif cute</p>   
